@@ -47,7 +47,7 @@ class _HHHState extends State<HHH> {
         padding: EdgeInsets.all(20),
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
-        color: Color.fromARGB(255, 234, 255, 5),
+        color: Color.fromARGB(255, 253, 253, 253),
         child: Column(
           children: [
             Container(
